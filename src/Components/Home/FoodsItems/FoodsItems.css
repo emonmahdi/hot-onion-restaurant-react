@@ -1,0 +1,20 @@
+#foods-items-section{
+    padding: 50px 0;
+}
+.categories-btn{
+    margin-bottom: 80px;
+}
+.categories-btn button{
+    text-decoration: none;
+    color:#000;
+    padding: 5px 20px;
+    font-size: 17px;
+    font-weight: 500;
+    border:none;
+    background-color: transparent;
+    border-bottom: 2px solid  transparent;
+
+}
+.categories-btn button:hover{
+    border-bottom: 2px solid rgb(192, 10, 10);
+}

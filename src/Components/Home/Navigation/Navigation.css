@@ -1,0 +1,10 @@
+.navbar-nav .nav-link {
+    display: inline-block;
+    margin-top: 10px;
+}
+.btn-signIn{
+    margin-top: -5px; 
+}
+.btn-logout{
+    padding: 0px 20px;
+}

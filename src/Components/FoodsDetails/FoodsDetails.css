@@ -1,0 +1,4 @@
+.single-food:hover{
+    box-shadow: 0 3px 10px #ddd;
+    border-radius: 10px;
+}

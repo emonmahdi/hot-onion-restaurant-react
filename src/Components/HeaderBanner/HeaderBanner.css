@@ -1,0 +1,32 @@
+#headerBanner{
+    background: url('../../Assets/bannerbackground.png');
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    position: relative;
+}
+.header-content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.search-box{
+    overflow: hidden;
+    margin-top: 15px;
+}
+.search-box input {
+    width: 80%;
+    display: inline;
+    border-radius: 20px;
+    border:none;
+    padding: 10px 15px;
+    outline: none;
+}
+.search-box button{
+    border-radius: 30px;
+    margin-left: -40px;
+    margin-top: -5px;  
+    padding: 10px 15px;
+}

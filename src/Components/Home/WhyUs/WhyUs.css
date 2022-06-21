@@ -1,0 +1,27 @@
+.top-title{
+    width: 50%;
+    text-align: left;
+    margin-bottom: 30px;
+}
+.whyusbody{
+    padding-bottom: 60px;
+}
+.card{
+    border: none;
+    box-shadow: 0 3px 18px #eee;
+    border-radius: 10px;
+    text-align: left;
+}
+.icons{
+    background-color: rgb(231, 15, 7);
+    padding: 10px; border-radius: 50%; 
+}
+.icons i{ 
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    
+    color:#fff;
+    text-align: center;
+    display: inline-block;
+}

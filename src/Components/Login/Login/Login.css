@@ -1,0 +1,44 @@
+.LoginForm{ 
+    width: 50%;
+    margin: 10px auto;  
+    padding: 10px;
+}
+form{
+    margin-top: 50px;
+}
+input{ 
+    width: 50%;
+    display: inline-block;
+    margin: 0 auto; 
+    margin-bottom: 15px;
+    padding:9px 15px;
+    background-color: #F5F5F5;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+}
+.submitBtn{
+    background-color: #F91944;
+    padding: 10px 20px;
+    width: 50%;
+    display: inline-block;
+    margin: 0 auto;
+    border:none;
+    border-radius: 6px;
+    margin-top: 20px;
+    color:#fff;
+}
+.loginBtns{
+    margin-top: 15px;
+}
+.loginBtns .loginBtn{
+    border: none;
+    width: 50%;
+    margin: 0 10px;
+    padding: 10px 25px;
+    border-radius: 6px;
+}
+.btngoogle{
+    background:  #4285F4;
+    color:#fff
+}

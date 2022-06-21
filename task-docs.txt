@@ -1,0 +1,10 @@
+1. homepage design - done include( navbar, banner, services, footer, Blog) - 
+2. Login authentication system implement- (email and password, Googlesign).- done
+3. Service fake data create - done
+4. service Sorting kore show korano-(Breakfast, Lunce, Dinner)
+5. Single service details page show - Done
+6. Single service page e exact categori thke jeta details e nai sei 2 ta slider e show korano single details page er niche.
+7. Blog section kora.- Done
+8. Cart e order show korano- top cart icon e.
+9. Place order component kora. and cart price show korano.
+10. details page a product plus- minus fetures add and price update.
